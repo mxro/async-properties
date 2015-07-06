@@ -1,3 +1,6 @@
+** MOVED **: This project has moved to [javadelight/delight-async-properties](https://github.com/javadelight/delight-async-properties) and is now part of the [Java Delight Suite](http://javadelight.org).
+
+
 [![Build Status](https://travis-ci.org/mxro/async-properties.svg?branch=master)](https://travis-ci.org/mxro/async-properties)
 
 # Async Properties
